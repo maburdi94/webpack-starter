@@ -1,4 +1,4 @@
-# webpack-starter
-Webpack + Babel + Typescript + CSSNext
+## Webpack-starter
+# No framework build configuration
 
-A demo of the Custom Elements API using a polyfill.
+Webpack + Babel + Typescript + CSSNext + Web Components
